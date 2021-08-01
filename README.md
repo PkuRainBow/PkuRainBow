@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PkuRainBow&show_icons=true&include_all_commits=true&count_private=true" alt="PkuRainBow" /> </p>
 
+
+## 🏆 Github Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=PkuRainBow)](https://github-profile-trophy.vercel.app/?username=PkuRainBow)
