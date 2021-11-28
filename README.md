@@ -8,17 +8,16 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on image/video understanding problem, especially the semantic segmentation for road scenes, at Microsoft Research Asia.
+- 🔭 I’m currently working on general image/video understanding problem, especially the semantic/panoptic segmentation for road scenes, at Microsoft Research Asia.
 
 
+## 🏆 GitHub Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=PkuRainBow&column=8)](https://github-profile-trophy.vercel.app/?username=PkuRainBow&column=8)
 
-<p align="center"> 
-  <img src="https://img.shields.io/github/followers/PkuRainBow?label=Followers" width="95px" alt="github follow" />
-</p>
+---
 
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PkuRainBow&show_icons=true&include_all_commits=true&count_private=true" alt="PkuRainBow" /> </p>
-
-
-## 🏆 Github Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=PkuRainBow)](https://github-profile-trophy.vercel.app/?username=PkuRainBow)
+## 📈 GitHub Stats
+<div>
+  <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=kamyu104&show_icons=true&theme=vue" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamyu104&layout=compact&show_icons=true&theme=vue" />
+</div>
