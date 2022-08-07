@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on general image/video understanding problem, especially the semantic/panoptic segmentation for road scenes, at Microsoft Research Asia.
+- 🔭 I’m currently working on general image/video/point-cloud understanding problem, especially the semantic/panoptic segmentation and object detection, at Microsoft Research Asia.
 
 
 ## 🏆 GitHub Trophy
