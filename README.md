@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on fundamental AIGC problems such as text-to-video generation, training LLM models with Megatron-llm, LLM for visual content generation and understanding, and unifying the image/video/point-cloud understanding and generation problem, especially the fundamental visual understanding tasks (semantic/panoptic segmentation and object detection) and visual generation tasks (image/video/3D-nerf generation), at Microsoft Research Asia.
+- 🔭 I am presently focusing on addressing fundamental problems in the area of Artificial Intelligence and Graphics Computing (AIGC). My work includes text-to-video generation, training large language models (LLMs) using Megatron-LLM, and applying LLMs to visual content generation and comprehension. Additionally, I am working on unifying the understanding and generation of image, video, and point-cloud data, with a particular emphasis on fundamental visual understanding tasks, such as semantic and panoptic segmentation, object detection, and visual generation tasks like image, video, and 3D-NeRF generation, at Microsoft Research Asia.
 
 
 ## 🏆 GitHub Trophy
