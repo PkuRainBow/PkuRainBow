@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on unifying the image/video/point-cloud understanding and generation problem, especially the fundamental visual understanding tasks (semantic/panoptic segmentation and object detection) and visual generation tasks (image/video/3D-nerf generation), at Microsoft Research Asia.
+- 🔭 I’m currently working on fundamental AIGC problems such as text-to-video generation, training LLM models with Megatron-llm, LLM for visual content generation and understanding, and unifying the image/video/point-cloud understanding and generation problem, especially the fundamental visual understanding tasks (semantic/panoptic segmentation and object detection) and visual generation tasks (image/video/3D-nerf generation), at Microsoft Research Asia.
 
 
 ## 🏆 GitHub Trophy
