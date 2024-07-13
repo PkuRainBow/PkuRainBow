@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 
 - 🔭 He has rich experience in areas such as general visual semantic/instance/panoptic segmentation and object recognition since joining MSRA in 2017. His representative works on segmentation and object detection include OCRNet (ECCV’2020), OCNet (IJCV’2021), and H-DETR (CVPR’2023).
 
-- 🔭 Please send an email to yuyua@microsoft.com or researcher.yuanyuhui@gmail.com if you are interested in a full-time researcher position or an internship position related to business content creation and editing or multimodal reasoning and planning.
+- 🔭 Please send an email to yuyua@microsoft.com or researcher.yuanyuhui@gmail.com if you are interested in an internship position related to business content creation and editing or multimodal reasoning and planning.
